@@ -1,0 +1,15 @@
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/bin/Debug/net7.0/estacionamentoMain
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/bin/Debug/net7.0/estacionamentoMain.deps.json
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/bin/Debug/net7.0/estacionamentoMain.runtimeconfig.json
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/bin/Debug/net7.0/estacionamentoMain.dll
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/bin/Debug/net7.0/estacionamentoMain.pdb
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.csproj.AssemblyReference.cache
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.AssemblyInfoInputs.cache
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.AssemblyInfo.cs
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.csproj.CoreCompileInputs.cache
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.dll
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/refint/estacionamentoMain.dll
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.pdb
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/estacionamentoMain.genruntimeconfig.cache
+/Users/macm1/Documents/Projetos/estacionamento-dio-c#/estacionamentoMain/obj/Debug/net7.0/ref/estacionamentoMain.dll
